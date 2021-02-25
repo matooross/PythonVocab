@@ -1,5 +1,4 @@
 
-Youtube Link: https://youtu.be/fmulCaqpp9I
 
 username: admin
 password: UncleSchool
